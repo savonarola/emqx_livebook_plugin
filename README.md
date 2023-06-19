@@ -1,3 +1,5 @@
+![Logo](./emqx-plus-livebook.png)
+
 # Emqx Livebook Plugin
 
 Integrating Livebook into EMQX PoC.
